@@ -1,0 +1,10 @@
+// For compiling the ts file we use tsc 
+tsc 
+
+// for contnuosly running a ts file we use 
+tsc -w 
+
+//for changing the build and start directory we use outdir and rootdi
+
+//to initiale tsconfig.json we use 
+ts init
